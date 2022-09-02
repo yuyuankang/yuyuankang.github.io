@@ -32,3 +32,15 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Song":
+  - firstname: ["Shaoxu"]
+    url: https://sxsong.github.io/
+
+"Huang":
+  - firstname: ["Xiangdong"]
+    url: https://www.thss.tsinghua.edu.cn/en/faculty/xiangdonghuang.htm
+
+"Wang":
+  - firstname: ["Jianmin"]
+    url: https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm
