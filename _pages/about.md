@@ -28,7 +28,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 My name is Yuyuan Kang (康愈圆). I am a Ph.D. student at the Department of Computer Sciences, University of Wisconsin-Madison.  I am currently advised by Prof. [Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/). 
 
-Before that, I obtained my Master's Degree in Software Engineering from Tsinghua University, where I was supervised by Prof. [Jianmin Wang](https://www.thss.tsinghua.edu.cn/en/info/1049/1030.htm) and worked closely with Prof [Shaoxu Song](http://ise.thss.tsinghua.edu.cn/sxsong/) and Xiangdong Huang. I did my undergraduate at Northeastern University (China).
+Before that, I obtained my Master's Degree in Software Engineering from Tsinghua University, where I was supervised by Prof. [Jianmin Wang](https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm) and worked closely with Prof [Shaoxu Song](https://sxsong.github.io/) and Xiangdong Huang. I did my undergraduate at Northeastern University (China).
 
 My research interests lie in many aspects of databases and data management, including transaction management, time-series database systems, and distributed database systems. 
 
