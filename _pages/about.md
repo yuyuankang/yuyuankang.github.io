@@ -26,13 +26,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-My name is Yuyuan Kang (康愈圆). I am a Ph.D. student at the Department of Computer Sciences, University of Wisconsin-Madison.  I am currently advised by Prof. [Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/). 
+My name is Yuyuan Kang (康愈圆). I am a Ph.D. student at the Department of Computer Sciences, University of Wisconsin-Madison. My research interests lie broadly in the area of Computer Systems and Data Management.  
 
 Before that, I obtained my Master's Degree in Software Engineering from Tsinghua University, where I was supervised by Prof. [Jianmin Wang](https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm) and worked closely with Prof [Shaoxu Song](https://sxsong.github.io/) and Xiangdong Huang. I did my undergraduate at Northeastern University (China).
-
-My research interests lie in many aspects of databases and data management, including transaction management, time-series database systems, and distributed database systems. 
-
-
 
 
 My CV can be found <a href="{{ YuyuanKang-CV.pdf | prepend: 'assets/pdf/YuyuanKang-CV.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" > here </a>.
