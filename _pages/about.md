@@ -33,7 +33,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-My name is Yuyuan Kang. I am a Ph.D. student at the Department of Computer Sciences, University of Wisconsin-Madison. My research interests lie broadly in the area of Computer Systems and Data Management, including building efficient and scalable systems for data processing and analytics. I am currently working with Prof. [Ming Liu](https://pages.cs.wisc.edu/~mgliu/).
+I am a Ph.D. student at the Department of Computer Sciences, University of Wisconsin-Madison. My research interests lie broadly in the area of Computer Systems and Data Management, including building efficient and scalable systems for data processing and analytics. I am currently working with Prof. [Ming Liu](https://pages.cs.wisc.edu/~mgliu/).
 
 Before that, I obtained my Master's Degree in Software Engineering from Tsinghua University, where I was supervised by Prof. [Jianmin Wang](https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm) and worked closely with Prof [Shaoxu Song](https://sxsong.github.io/) and Xiangdong Huang. I did my undergraduate at Northeastern University (China).
 
