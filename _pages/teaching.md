@@ -12,4 +12,4 @@ nav_order: 5
 Organize your courses by years, topics, or universities, however you like! -->
 
 - **CS 407**: Foundations of Mobile Systems and Applications (F23, F24)
-- **CS 300**: Programming II (S24)
+- **CS 300**: Programming II (S24, F25)
