@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='https://www.wisc.edu/'>University of Wisconsin-Madison</a>
