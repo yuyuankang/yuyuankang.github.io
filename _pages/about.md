@@ -37,5 +37,4 @@ I am a Ph.D. student at the Department of Computer Sciences, University of Wisco
 
 Before that, I obtained my Master's Degree in Software Engineering from Tsinghua University, where I was supervised by Prof. [Jianmin Wang](https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm) and worked closely with Prof [Shaoxu Song](https://sxsong.github.io/) and Xiangdong Huang. I did my undergraduate at Northeastern University (China).
 
-
 My CV can be found <a href="{{ YuyuanKang-CV.pdf | prepend: 'assets/pdf/YuyuanKang-CV.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" > here </a>.
