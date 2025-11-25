@@ -1,7 +1,12 @@
-<div class="project-pub d-flex mb-3">
+<div class="project-pub d-flex mb-3 align-items-center">
+  <style id="projects-publike-style">
+    .project-pub-thumb img.project-pub-thumb-img { width: 80px !important; height: 80px !important; object-fit: cover; display: block; }
+    .project-pub-thumb { width: 80px; flex: 0 0 80px; }
+    @media (max-width: 575px) { .project-pub { flex-direction: row; } }
+  </style>
   <div class="project-pub-thumb mr-3">
     {% if project.img %}
-      {%- include figure.liquid loading="eager" path=project.img sizes="80px" class="img-fluid rounded" alt=project.title -%}
+      {%- include figure.liquid loading="eager" path=project.img width="80" height="80" class="rounded project-pub-thumb-img" alt=project.title -%}
     {% endif %}
   </div>
   <div class="project-pub-body">
@@ -9,7 +14,7 @@
       <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">{{ project.title }}</a>
     </h3>
     {% if project.description %}
-      <p class="mb-1 text-muted">{{ project.description }}</p>
+      <p class="mb-1 text-muted">{{ project.description | markdownify }}</p>
     {% endif %}
     <div class="project-links small">
       {% if project.github %}

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Benchmarking Vector Database
+description: Benchmarking Vector Databases is a visualization platform that presents performance results from vectordbbench across different databases, indexes, and hardware settings. It provides an interactive way to explore QPS, latency, recall, and other metrics from large-scale vector search benchmarks.
+img: assets/img/vdb-logo.png
 importance: 2
 category: work
-giscus_comments: true
+redirect: https://vdb.cs.wisc.edu/
 ---
 
 Every project has a beautiful feature showcase page.

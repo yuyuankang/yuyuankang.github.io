@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: EFabric
+description: EFabric is an elastic on-premise computing platform for AI4Science experiments. Researchers at UW-Madison can request, deploy, and run experiments on demands with high performance and low cost.
+img: assets/img/efabric-logo.png
 importance: 1
 category: work
+redirect: http://efabric.cs.wisc.edu/
 related_publications: true
 ---
 

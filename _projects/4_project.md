@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Apache IoTDB
+description: Apache IoTDB is an industrial IoT time-series database management system that adopts a lightweight architecture with edge-cloud collaboration, supporting integrated collection, storage, management, and analysis of IoT time-series data.
+img: assets/img/iotdb-logo.png
+importance: 4
+category: work
+redirect: https://iotdb.apache.org/
 ---
 
 Every project has a beautiful feature showcase page.

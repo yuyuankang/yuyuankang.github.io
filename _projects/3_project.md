@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: ntprof
+description: ntprof is a systematic, informative, and lightweight NVMe-over-TCP profiler. The key idea is to view the NVMe/TCP storage substrate as a lossless switched network and apply network monitoring techniques. It models each on-path system module as a software switch, equips it with a programmable profiling agent on the data plane, and develops a proactive query interface for statistics collection and analysis.
+img: assets/img/ntprof-logo.png
+redirect: https://ntprof.cs.wisc.edu/
 importance: 3
 category: work
 ---
