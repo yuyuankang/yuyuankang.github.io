@@ -1,0 +1,28 @@
+<div class="project-pub d-flex mb-3 align-items-center">
+  <style id="projects-publike-style">
+    .project-pub-thumb img.project-pub-thumb-img { width: 80px !important; height: 80px !important; object-fit: cover; display: block; }
+    .project-pub-thumb { width: 80px; flex: 0 0 80px; }
+    @media (max-width: 575px) { .project-pub { flex-direction: row; } }
+  </style>
+  <div class="project-pub-thumb mr-3">
+    {% if project.img %}
+      {%- include figure.liquid loading="eager" path=project.img width="80" height="80" class="rounded project-pub-thumb-img" alt=project.title -%}
+    {% endif %}
+  </div>
+  <div class="project-pub-body">
+    <h3 class="h5 mb-1">
+      <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">{{ project.title }}</a>
+    </h3>
+    {% if project.description %}
+      <p class="mb-1 text-muted">{{ project.description | markdownify }}</p>
+    {% endif %}
+    <div class="project-links small">
+      {% if project.github %}
+        <a href="{{ project.github }}" class="mr-2"><i class="fa-brands fa-github"></i> Repo</a>
+      {% endif %}
+      {% if project.website %}
+        <a href="{{ project.website }}" class="mr-2">Website</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
