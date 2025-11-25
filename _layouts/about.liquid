@@ -67,7 +67,7 @@ layout: default
         <h2>
           <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
         </h2>
-        {% assign sorted_projects = site.projects | where_exp: "p", "p.placeholder != true" | sort: "importance" %}
+        {% assign sorted_projects = site.projects | where_exp: 'p', 'p.placeholder != true' | sort: 'importance' %}
         <div class="container">
           <div class="row">
             {% for project in sorted_projects limit: page.projects.limit %}

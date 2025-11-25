@@ -1,8 +1,20 @@
 <div class="project-pub d-flex mb-3 align-items-center">
   <style id="projects-publike-style">
-    .project-pub-thumb img.project-pub-thumb-img { width: 80px !important; height: 80px !important; object-fit: cover; display: block; }
-    .project-pub-thumb { width: 80px; flex: 0 0 80px; }
-    @media (max-width: 575px) { .project-pub { flex-direction: row; } }
+    .project-pub-thumb img.project-pub-thumb-img {
+      width: 80px !important;
+      height: 80px !important;
+      object-fit: cover;
+      display: block;
+    }
+    .project-pub-thumb {
+      width: 80px;
+      flex: 0 0 80px;
+    }
+    @media (max-width: 575px) {
+      .project-pub {
+        flex-direction: row;
+      }
+    }
   </style>
   <div class="project-pub-thumb mr-3">
     {% if project.img %}
